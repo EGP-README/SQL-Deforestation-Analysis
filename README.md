@@ -10,3 +10,4 @@ The queries include examples of:
 - Window functions
 - Grouping and ordering
 
+The creation of the VIEW is the first step in every query of the project and is included at the top of each file.
