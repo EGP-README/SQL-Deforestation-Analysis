@@ -1,5 +1,5 @@
 # SQL-Deforestation-Analysis
-A set of SQL queries used as part of the Udacity SQL Nanodegree program for the Deforestation Exploration project (Data not included).
+A set of SQL queries used as part of the Udacity SQL Nanodegree program for the Deforestation Exploration project (Data not included). If you plan to or are currently in this program, I highly reccomend attempting these queries without referencing the work of others. 
 
 The queries include examples of:
 - Inner and Self Joins
